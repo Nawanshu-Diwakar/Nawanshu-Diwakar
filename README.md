@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning C and Java and advancing my skillset in python
+- 🧪 I'm keen on tech and science achievements and research. 
 <!--
 **Nawanshu-Diwakar/Nawanshu-Diwakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
